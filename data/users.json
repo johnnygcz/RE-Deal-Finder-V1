@@ -1,0 +1,32 @@
+[
+  {
+    "username": "TimB",
+    "password": "Pass",
+    "role": "admin",
+    "monGhlColumn": "JS Send to GHL"
+  },
+  {
+    "username": "Jonathan",
+    "password": "Investor1",
+    "role": "admin",
+    "monGhlColumn": "JS Send to GHL"
+  },
+  {
+    "username": "Alex",
+    "password": "Investor2",
+    "role": "user",
+    "monGhlColumn": "AZ Send to GHL"
+  },
+  {
+    "username": "Ben",
+    "password": "HumbleBen",
+    "role": "user",
+    "monGhlColumn": "AZ Send to GHL"
+  },
+  {
+    "username": "demo",
+    "password": "password",
+    "role": "user",
+    "monGhlColumn": "JS Send to GHL"
+  }
+]
